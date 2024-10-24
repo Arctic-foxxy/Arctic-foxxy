@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Java / JSON
 - 💞️ I’m looking to collaborate on Astrofox Studios
 - 📫 How to reach me arcticfox@astrofoxstudios.com
-- 😄 Pronouns: They / Them
+- 😄 Pronouns: She / Her
 - ⚡ Fun fact: i own Astrofox Studios
 
 
