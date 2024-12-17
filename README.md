@@ -1,9 +1,9 @@
 # 🚀 **Skye | Arctic_Foxxyt**  
 **CEO | Developer | Innovator**  
 
-![Astrofox Studios](https://img.shields.io/badge/Astrofox_Studios-CEO-blue?style=flat-square)  
-![ExpHost](https://img.shields.io/badge/ExpHost-CFO-orange?style=flat-square)  
-![Coding](https://img.shields.io/badge/Python-yellow?style=flat-square)  
+![Astrofox Studios](https://img.shields.io/badge/Astrofox_Studios-CEO-purple?style=flat-square)  
+![ExpHost](https://img.shields.io/badge/ExpHost-CFO-blue?style=flat-square)  
+![Coding](https://img.shields.io/badge/Python-yellow?style=flat-square)[Coding](https://img.shields.io/badge/WebDev-red?style=flat-square)[Coding](https://img.shields.io/badge/Learning-Java-orange?style=flat-square)  
 
 ---
 
