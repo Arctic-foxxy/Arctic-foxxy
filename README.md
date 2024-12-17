@@ -3,7 +3,7 @@
 
 ![Astrofox Studios](https://img.shields.io/badge/Astrofox_Studios-CEO-blue?style=flat-square)  
 ![ExpHost](https://img.shields.io/badge/ExpHost-CFO-orange?style=flat-square)  
-![Coding](https://img.shields.io/badge/Code-HTML%20%7C%20CSS%20%7C%20Python%20%7C%20JSON%20%7C%20Java-learning-yellow?style=flat-square)  
+![Coding](https://img.shields.io/badge/Python-yellow?style=flat-square)  
 
 ---
 
