@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 **About Me**  
-Hey there! I'm **Skye**, a 16-year-old developer, entrepreneur, and creative mind behind **Astrofox Studios**, one of the largest Minecraft event studios globally.  
+Hiya! I'm **Skye**, a 16-year-old developer, entrepreneur, and creative mind behind **Astrofox Studios**, one of the largest Minecraft event studios.  
 
 - 🎓 **Current Student** at a *UK High School* (2020–2025).  
 - 💼 **CEO** of Astrofox Studios, a game development studio I founded in 2022, now thriving with over **40+ team members**.  
@@ -30,7 +30,8 @@ Hey there! I'm **Skye**, a 16-year-old developer, entrepreneur, and creative min
 
 ### 🌟 **ExpHost**  
 - 💻 Building user-friendly hosting platforms for game servers.  
-- 🔧 Designing custom web-based pricing configurators, dynamic content systems, and interactive UIs.  
+- 🔧 Designing custom web-based pricing configurators, dynamic content systems, and interactive UIs.
+- 🧑‍💻 Helping with customer support tickets
 
 ---
 
