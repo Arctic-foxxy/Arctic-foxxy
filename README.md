@@ -67,6 +67,10 @@ When I'm not coding, I produce music under **Arctic_foxxyt**. Check out my work 
 
 ---
 
+![Arctic-foxxy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arctic-foxxy&show_icons=true&theme=default)
+
+---
+
 ## 🚀 **Fun Fact**  
 I'm a **green belt** in kickboxing! 🥋  
 
